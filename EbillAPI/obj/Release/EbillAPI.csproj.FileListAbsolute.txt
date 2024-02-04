@@ -1,0 +1,227 @@
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\EbillAPI.dll.config
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\EbillAPI.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\EbillAPI.pdb
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\csc.exe
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\csc.exe.config
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\csc.rsp
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\csi.exe
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\csi.rsp
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\System.AppContext.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\vbc.exe
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\vbc.exe.config
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\vbc.rsp
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\Newtonsoft.Json.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\Swashbuckle.Core.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Web.Helpers.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Web.Http.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Web.Mvc.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Web.Razor.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Web.Webpages.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Web.Webpages.Razor.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\WebActivatorEx.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Web.Razor.xml
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Web.Webpages.xml
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Web.Webpages.Razor.xml
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Web.Helpers.xml
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Web.Mvc.xml
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\Newtonsoft.Json.xml
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Web.Http.xml
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\obj\Release\EbillAPI.csproj.CoreCompileInputs.cache
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\obj\Release\EbillAPI.csproj.CopyComplete
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\obj\Release\EbillAPI.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\obj\Release\EbillAPI.pdb
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Web.Cors.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Web.Http.Cors.dll
+C:\Users\saras\source\repos\EbillAPI\EbillAPI\bin\System.Web.Http.Cors.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\EbillAPI.dll.config
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\EbillAPI.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\EbillAPI.pdb
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\Google.Protobuf.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\K4os.Compression.LZ4.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\K4os.Hash.xxHash.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\MySql.Data.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\Swashbuckle.Core.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Buffers.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Memory.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Web.Cors.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Web.Helpers.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Web.Http.Cors.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Web.Http.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Web.Mvc.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Web.Razor.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Web.Webpages.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Web.Webpages.Razor.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\WebActivatorEx.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\BouncyCastle.Crypto.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\Google.Protobuf.pdb
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\Google.Protobuf.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\K4os.Compression.LZ4.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\K4os.Hash.xxHash.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\MySql.Data.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Buffers.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Memory.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Web.Http.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Web.Http.Cors.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Web.Razor.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Web.Webpages.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Web.Webpages.Razor.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Web.Helpers.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Web.Mvc.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\obj\Release\EbillAPI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\obj\Release\EbillAPI.csproj.CopyComplete
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\obj\Release\EbillAPI.dll
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\obj\Release\EbillAPI.pdb
+C:\Users\DELL\Desktop\EbillAPI Old\EbillAPI\obj\Release\EbillAPI.csprojAssemblyReference.cache
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\EbillAPI.dll.config
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\EbillAPI.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\EbillAPI.pdb
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\csc.exe
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\csc.exe.config
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\csc.rsp
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\csi.exe
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\csi.rsp
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\System.AppContext.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\vbc.exe
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\vbc.exe.config
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\vbc.rsp
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\VBCSCompiler.exe
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\BouncyCastle.Crypto.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\Google.Protobuf.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\K4os.Compression.LZ4.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\K4os.Compression.LZ4.Streams.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\K4os.Hash.xxHash.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\MySql.Data.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\Newtonsoft.Json.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\Swashbuckle.Core.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Buffers.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Memory.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Net.Http.Formatting.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Numerics.Vectors.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Web.Cors.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Web.Helpers.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Web.Http.Cors.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Web.Http.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Web.Http.WebHost.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Web.Mvc.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Web.Razor.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Web.Webpages.Deployment.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Web.Webpages.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Web.Webpages.Razor.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\WebActivatorEx.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\BouncyCastle.Crypto.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\Google.Protobuf.pdb
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\Google.Protobuf.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\K4os.Compression.LZ4.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\K4os.Compression.LZ4.Streams.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\K4os.Hash.xxHash.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\MySql.Data.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Buffers.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Memory.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Net.Http.Formatting.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Numerics.Vectors.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Web.Http.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Web.Http.Cors.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Web.Razor.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Web.Webpages.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Web.Webpages.Deployment.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Web.Webpages.Razor.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Web.Helpers.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Web.Mvc.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\Newtonsoft.Json.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\System.Web.Http.WebHost.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\obj\Release\EbillAPI.csprojAssemblyReference.cache
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\obj\Release\EbillAPI.csproj.CoreCompileInputs.cache
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\obj\Release\EbillAPI.csproj.CopyComplete
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\obj\Release\EbillAPI.dll
+D:\My Projects\C# .NET\EbillAPI Old\EbillAPI\obj\Release\EbillAPI.pdb
